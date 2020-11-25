@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="JogoDaVelhaView">
+        <attr format="color" name="customText"/>
+        <attr name="corDaBarra" format="color"/>
+        <attr name="larguraDaBarra" format="dimension"/>
+    </declare-styleable>
+</resources>
